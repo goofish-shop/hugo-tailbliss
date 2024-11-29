@@ -96,92 +96,30 @@ params:
     placeholder: "Enter your email"
     button: "Notify me"
 
-  social_media:
-    github:
-      enabled: true
-      url: 'https://github.com/nusserstudios'
-    facebook:
-      enabled: true
-      url: 'https://facebook.com/nusserstudios'
-    instagram:
-      enabled: true
-      url: 'https://instagram.com/nusserstudios'
-    twitter:
-      enabled: true
-      url: 'https://twitter.com/nusserstudios'
+
     
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 10
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: Scenic
+      name: Scenic Design
+      url: /scenic/
       weight: 20
-    - identifier: categories
-      pre: dropdown
-      name: Categories
+
+    - identifier: Photography
+      name: Photography
+      url: /photography/
       weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
+    - identifier: handpainting
+      name: Handpainting
+      url: /handpainting/
       weight: 40
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
-  categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 10
-    - identifier: about
+    - identifier: About
       name: About
       url: /about/
-      weight: 20
-  dropdown:
-    - identifier: appearance
-      pre: stars # can be stars, comments or piechart
-      name: Appearance
-      post: "Easy customization"
-      url: "#"
-      weight: 10
-    - identifier: comments
-      pre: comments # can be stars, comments or piechart
-      name: Comments
-      post: "Check your latest comments"
-      url: "#"
-      weight: 20
-    - identifier: analytics
-      pre: piechart # can be stars, comments or piechart
-      name: Analytics
-      post: "Take a look at your statistics"
-      url: "#"
-      weight: 30
-  footer:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 10
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
-      weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
-      weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
-    - identifier: contact
-      name: Contact
-      url: /contact/
       weight: 50
+
+
 
 markup:
   goldmark:

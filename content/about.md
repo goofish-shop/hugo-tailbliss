@@ -4,239 +4,85 @@ date: 2021-12-18T11:10:36+08:00
 draft: false
 language: en
 description: About Us
-featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
-# h1 Heading :blush:
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
 
+Siyi SUN (Irina)
 
-## Horizontal Rules
+Jiangning District, Nanjing City, Jiangsu Province, China 
 
-***
+Email: irinacc1.400000000@gmail.com 
 
----
+Tel:+(86) 15850646179 
 
-___
+## EDUCATION
+ 
+09/2021-06/2025 Hubei University of Technology | Bachelor of Fine Arts Wuhan,China 
 
+* Department: School of Art & Design
 
-## Typographic replacements
+* Major: Visual Communication Design 
 
-Enable typographer option to see result.
+* GPA: 89.68/100 
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
-test.. test... test..... test?..... test!....
+## ART EXPERIENCE 
 
-!!!!!! ???? ,,  -- ---
+11/2023-04/2024 Sino-French Urban Space Public Facilities Design Workshop Wuhan,China 
 
-"Smartypants, double quotes" and 'single quotes'
+Photographer/Designer 
 
+Served as photographer using camera, tripod and stabilizer to record the workflow of the whole 
 
-## Emphasis
+workshop 
 
-**This is bold text**
+Edited the videos using DaVinci Resolve in the final exhibition, producing 4 minutes and 18 
+minutes of videos respectively 
+Designed and produced solid models using bamboo and dupont paper 
 
-__This is bold text__
+https://www.youtube.com/@IrinaCC106/2023-07/2023 Study of Typerface, HBUT Wuhan, China 
+Designer/Researcher 
+Independently collected the design introduction and excellent cases related to brand, poster and 
+book text design by browsing the China International Poster Biennale, “The Most Beautiful 
+Book”, Pentagon Design and other influential competitions 
+Designed creative fonts and wrote the whole steps by Photoshop and Illustrator 
 
-*This is italic text*
+## HONORS/AWARDS 
+10/2024 Gold Award of UK International Art and Design Competition 
 
-_This is italic text_
+08/2024 Award Certificate of The 10 th Academic Award National Art and Design Competition 
 
-~~Strikethrough~~
+08/2024 Honorable Mention of 2024 Global Art Chinese Design Award 
 
+07/2024 The Silver Award of Suomen AG Design Award 
 
-## Blockquotes
+06/2024 The Silver Award of 2024 FA International Frontier Innovation Design Competition 
 
+06/2024 The Bronze Award of Hong Kong Contemporary Design Award 
 
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
+06/2024 The Second Prize of 2024 Hong Kong Digital Art Design Competition 
 
+06/2024 The Bronze Award of 2024 “Huaxia Award” Culture and Art Design Competition 
 
-## Lists
+05/2024 The Bronze Award of International Contemporary Youth Art Design Competition 
 
-Unordered
+09/2023 The 15 th National Advertising Art Design Competition for College StudentsSecond prize in provincial competition, excellence award in national competition 
 
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
+10/2023 Third-class Scholarship of Hubei University of Technology 
 
-Ordered
+05/2023 Milan Design Week China Collegiate Design Competition &Exhibition 
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+Third prize in provincial competition 
+10/2022 Outstanding model for college students (university-level first-class scholarship) 
 
+## SKILLS/INTERESTS 
 
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
+Software Skills: Photoshop, Illustrator, Figma, Indesign, Lightroom, Blender, DaVinci Resolve, 
 
-Start numbering with offset:
+Touch Designer 
 
-57. foo
-1. bar
+Interests: Photograph, Video shooting and clip, Piano (Level 10), Cello (Principal of Art Troupe Orchestra, HBUT)
 
 
-## Code
 
-Inline `code`
 
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::

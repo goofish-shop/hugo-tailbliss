@@ -1,0 +1,13 @@
+resources/
+
+
+public/
+
+
+
+node_modules/
+
+
+package-lock.json
+.hugo_build.lock
+package-lock.json
