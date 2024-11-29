@@ -959,7 +959,7 @@ video {
   --tw-prose-quote-borders: #d4d4d8;
   --tw-prose-captions: #3f3f46;
   --tw-prose-kbd: #111827;
-  --tw-prose-kbd-shadows: 17 24 39;
+  --tw-prose-kbd-shadows: black;
   --tw-prose-code: #6366f1;
   --tw-prose-pre-code: #a5b4fc;
   --tw-prose-pre-bg: #111827;
@@ -2588,10 +2588,6 @@ video {
   grid-column: span 3 / span 3;
 }
 
-.col-span-6 {
-  grid-column: span 6 / span 6;
-}
-
 .-mx-5 {
   margin-left: -1.25rem;
   margin-right: -1.25rem;
@@ -2623,10 +2619,6 @@ video {
 
 .mb-4 {
   margin-bottom: 1rem;
-}
-
-.mb-6 {
-  margin-bottom: 1.5rem;
 }
 
 .mb-8 {
@@ -2831,6 +2823,11 @@ video {
   resize: both;
 }
 
+.columns-2 {
+  -moz-columns: 2;
+       columns: 2;
+}
+
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
@@ -2869,10 +2866,6 @@ video {
 
 .gap-4 {
   gap: 1rem;
-}
-
-.gap-8 {
-  gap: 2rem;
 }
 
 .space-x-1 > :not([hidden]) ~ :not([hidden]) {
@@ -2943,11 +2936,6 @@ video {
 
 .border-b-stone-200\/10 {
   border-bottom-color: rgb(231 229 228 / 0.1);
-}
-
-.bg-gray-200 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(229 231 235 / var(--tw-bg-opacity, 1));
 }
 
 .bg-gray-300 {
@@ -3175,10 +3163,6 @@ video {
   font-weight: 500;
 }
 
-.font-normal {
-  font-weight: 400;
-}
-
 .font-semibold {
   font-weight: 600;
 }
@@ -3368,6 +3352,22 @@ EmojiSymbols;
 }
 
 /* Custom CSS end */
+
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  /* background: #fff; */
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto
+}
 
 .dark\:prose-invert:is(.dark *) {
   --tw-prose-body: var(--tw-prose-invert-body);
@@ -4015,27 +4015,27 @@ EmojiSymbols;
 
 .dark\:border-gray-600:is(.dark *) {
   --tw-border-opacity: 1;
-  border-color: rgb(75 85 99 / var(--tw-border-opacity, 1));
+  border-color: black;
 }
 
 .dark\:bg-gray-700:is(.dark *) {
   --tw-bg-opacity: 1;
-  background-color: rgb(55 65 81 / var(--tw-bg-opacity, 1));
+  background-color: black;
 }
 
 .dark\:bg-gray-800:is(.dark *) {
   --tw-bg-opacity: 1;
-  background-color: rgb(31 41 55 / var(--tw-bg-opacity, 1));
+  background-color: black;
 }
 
 .dark\:bg-gray-900:is(.dark *) {
   --tw-bg-opacity: 1;
-  background-color: rgb(17 24 39 / var(--tw-bg-opacity, 1));
+  background-color: black;
 }
 
 .dark\:bg-indigo-600:is(.dark *) {
   --tw-bg-opacity: 1;
-  background-color: rgb(79 70 229 / var(--tw-bg-opacity, 1));
+  background-color: black;
 }
 
 .dark\:text-gray-200:is(.dark *) {
@@ -4127,14 +4127,6 @@ EmojiSymbols;
     grid-column: span 2 / span 2;
   }
 
-  .sm\:mb-0 {
-    margin-bottom: 0px;
-  }
-
-  .sm\:mb-6 {
-    margin-bottom: 1.5rem;
-  }
-
   .sm\:w-fit {
     width: -moz-fit-content;
     width: fit-content;
@@ -4152,11 +4144,6 @@ EmojiSymbols;
   .sm\:px-6 {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
-  }
-
-  .sm\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
   }
 
   .sm\:text-xl {
@@ -4256,11 +4243,6 @@ EmojiSymbols;
     line-height: 2.5rem;
   }
 
-  .md\:text-lg {
-    font-size: 1.125rem;
-    line-height: 1.75rem;
-  }
-
   .md\:hover\:bg-gray-100:hover {
     --tw-bg-opacity: 1;
     background-color: rgb(243 244 246 / var(--tw-bg-opacity, 1));
@@ -4294,15 +4276,6 @@ EmojiSymbols;
 }
 
 @media (min-width: 1024px) {
-  .lg\:mx-0 {
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-
-  .lg\:mb-0 {
-    margin-bottom: 0px;
-  }
-
   .lg\:mb-16 {
     margin-bottom: 4rem;
   }
@@ -4313,14 +4286,6 @@ EmojiSymbols;
 
   .lg\:max-w-none {
     max-width: none;
-  }
-
-  .lg\:grid-cols-12 {
-    grid-template-columns: repeat(12, minmax(0, 1fr));
-  }
-
-  .lg\:gap-12 {
-    gap: 3rem;
   }
 
   .lg\:px-6 {
@@ -4346,10 +4311,6 @@ EmojiSymbols;
     padding-bottom: 6rem;
   }
 
-  .lg\:text-left {
-    text-align: left;
-  }
-
   .lg\:text-7xl {
     font-size: 4.5rem;
     line-height: 1;
@@ -4357,17 +4318,8 @@ EmojiSymbols;
 }
 
 @media (min-width: 1280px) {
-  .xl\:mb-2 {
-    margin-bottom: 0.5rem;
-  }
-
   .xl\:text-9xl {
     font-size: 8rem;
     line-height: 1;
-  }
-
-  .xl\:text-xl {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
   }
 }

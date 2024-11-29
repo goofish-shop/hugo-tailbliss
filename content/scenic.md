@@ -6,6 +6,8 @@ description:
 ---
 
  <audio controls src="/mp3/0.mp3" style="display:none" ></audio>
+ 
+![](/images/scenicdesign/class/title.png)
 
 ## Welcome To The Class
 
@@ -15,7 +17,7 @@ Keywords: Music	& Drama
 Modern society has created great material wealth for human beings, and then the human spiritual world has been devastated. In the face of ghosts and temptations, will people choose to stick to themselves or bow down at the feet of the powerful?
 Illusory, gaze, ritual, judge, is the first feeling that this music gives me. I was fascinated by the very mysterious atmosphere, the very rhythmic drum beat, the eerie melody and the rising hazy background sound directly reminded me of one of my favorite director Kubrick's films, Eyes Wide Shut, in which the hero enters the ball wearing a mask. People chase money and fame and yearn for the mystery, cruelty and seductive light of upper class society. And is the seemingly supreme and inviolable religious belief also a FIG leaf for the upper class to rule society?
 
-![](/images/scenicdesign/class/title.jpg)
+
 
 ![](/images/scenicdesign/class/100.jpg)
 
@@ -34,27 +36,69 @@ Illusory, gaze, ritual, judge, is the first feeling that this music gives me. I 
 
 Real-life work attire
 
-![](/images/scenicdesign/class/ben/1.jpg)
-![](/images/scenicdesign/class/ben/2.jpg)
-![](/images/scenicdesign/class/ben/3.jpg)
-![](/images/scenicdesign/class/ben/4.jpg)
-![](/images/scenicdesign/class/ben/5.jpg)
-![](/images/scenicdesign/class/ben/6.jpg)
-![](/images/scenicdesign/class/ben/7.jpg)
-![](/images/scenicdesign/class/ben/8.jpg)
-![](/images/scenicdesign/class/ben/9.jpg)
-![](/images/scenicdesign/class/ben/10.jpg)
-![](/images/scenicdesign/class/ben/11.jpg)
-![](/images/scenicdesign/class/ben/12.jpg)
+
+
+<div class=" columns-2">
+  <div > <img class="w-full " src="/images/scenicdesign/class/ben/4.jpg" /> </div>
+  <div >
+       <div class="columns-2">
+            <img  src="/images/scenicdesign/class/ben/1.jpg" />
+            <img  src="/images/scenicdesign/class/ben/2.jpg" />
+        </div>
+        <img  src="/images/scenicdesign/class/ben/3.jpg" />
+  </div>
+</div>
+
+
+
+<div class=" columns-2">
+  <div > <img class="w-full " src="/images/scenicdesign/class/ben/8.jpg" /> </div>
+  <div >
+       <div class="columns-2">
+            <img  src="/images/scenicdesign/class/ben/5.jpg" />
+            <img  src="/images/scenicdesign/class/ben/6.jpg" />
+        </div>
+        <img  src="/images/scenicdesign/class/ben/7.jpg" />
+  </div>
+</div>
+
+
+
+<div class=" columns-2">
+  <div > <img class="w-full " src="/images/scenicdesign/class/ben/12.jpg" /> </div>
+  <div >
+       <div class="columns-2">
+            <img  src="/images/scenicdesign/class/ben/9.jpg" />
+            <img  src="/images/scenicdesign/class/ben/10.jpg" />
+        </div>
+        <img  src="/images/scenicdesign/class/ben/11.jpg" />
+  </div>
+</div>
+
+
 
 
 ### Drawings
 
-reality : church
+  <!-- Swiper -->
+<div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
+  <div class="swiper-container-drawings" style="">
+    <div class=" swiper-wrapper" >
+      <div class="swiper-slide">
+        <img src="/images/scenicdesign/class/Drawings/1.png" alt="" /> 
+      </div>
+      <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Drawings/2.png" alt="">
+            <img src="/images/scenicdesign/class/Drawings/3.png" alt="">
+      </div>
+    </div>
+  </div></div>
 
-![](/images/scenicdesign/class/Drawings/1.png)
-![](/images/scenicdesign/class/Drawings/2.png)
-![](/images/scenicdesign/class/Drawings/3.png)
+
+
+
+
+
 
 
 ### Rendering
@@ -63,12 +107,29 @@ Formal dress
 ball
 Semi-transparent suit: the body can be vaguely seen, and the garment will sway slightly up and down as you walk.
 
-![](/images/scenicdesign/class/Rendering/1.png)
-![](/images/scenicdesign/class/Rendering/2.png)
-![](/images/scenicdesign/class/Rendering/3.png)
-![](/images/scenicdesign/class/Rendering/4.png)
-![](/images/scenicdesign/class/Rendering/5.png)
-![](/images/scenicdesign/class/Rendering/6.png)
+<div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
+  <div class="swiper-container-drawings" style="">
+    <div class=" swiper-wrapper" >
+      <div class="swiper-slide">
+        <img src="/images/scenicdesign/class/Rendering/1.png" alt="" /> 
+      </div>
+      <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/2.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/3.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/4.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/5.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/6.png" alt="">
+      </div>
+    </div>
+  </div></div>
 
 
 ## Echo
@@ -87,6 +148,43 @@ Time: January 2024- February 2024
 ![](/images/scenicdesign/class/Echo/6.png)
 
 ### Rendering
+
+
+<div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
+  <div class="swiper-container-drawings" style="">
+    <div class=" swiper-wrapper" >
+      <div class="swiper-slide">
+        <img src="/images/scenicdesign/class/Echo/Rendering/1.png" alt="" /> 
+      </div>
+      <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/2.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/3.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/4.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/5.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/6.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/7.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/8.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/9.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/10.png" alt="">
+      </div>
+    </div>
+  </div></div>
 
 ![](/images/scenicdesign/class/Echo/Rendering/1.png)
 ![](/images/scenicdesign/class/Echo/Rendering/2.png)
@@ -201,3 +299,30 @@ origin script
 ![](/images/scenicdesign/class/Camel/Rendering/10.png)
 ![](/images/scenicdesign/class/Camel/Rendering/11.png)
 ![](/images/scenicdesign/class/Camel/Rendering/12.png)
+
+
+
+<script>   
+     //     var swiper = new Swiper('.swiper-container');     
+        var mySwiper = new Swiper ('.swiper-container-drawings', {
+          direction: 'horizontal', // 垂直切换选项
+          loop: true, // 循环模式选项
+          autoplay:true,
+          noSwipingClass : 'scroll-wrap',
+          
+        //   // 如果需要分页器
+        //   pagination: {
+        //     el: '.swiper-pagination',
+        //   },
+          
+          // 如果需要前进后退按钮
+        //   navigation: {
+        //     nextEl: '.swiper-button-next',
+        //     prevEl: '.swiper-button-prev',
+        //   },
+        //   // 如果需要滚动条
+        //   scrollbar: {
+        //     el: '.swiper-scrollbar',
+        //   },
+        })        
+</script>
