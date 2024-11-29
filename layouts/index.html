@@ -1,94 +1,85 @@
 {{ define "main" }}
 <main>
    
-    <a href="scenic">
-        <div class="bg-gray-200 dark:bg-gray-900">
-            <div class="max-w-screen-xl px-4 py-8 mx-auto">
-                <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
-                    <div class="col-span-6 px-4 text-center sm:mb-6 lg:text-left lg:mb-0">
-                  
-                        <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                            Scenic Design
-                        </h2>
-                        <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
-                           
-                        </p>
-                    </div>
-                    <div class="col-span-6">
-                        {{ $hero := resources.GetMatch "images/100.jpg" }}
-    
-                        {{ $thumb := ($hero.Fill "400x400 webp q90") }}
-                        {{ $large := ($hero.Fill "576x576 webp q90") }}
-    
-                        <img srcset="
-                            {{- with $thumb.RelPermalink -}}{{.}} 400w{{- end -}}
-                            {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}" width="100%" height="" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg" />
-                    </div>
-                </div>
-            </div>
-        </div>
-    </a>
+    <style>
+ .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
 
-    <a href="/photography/">
-        <div class="bg-gray-200 dark:bg-gray-900">
-            <div class="max-w-screen-xl px-4 py-8 mx-auto">
-                <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
-                 
-                    <div class="col-span-6">
-                        {{ $hero := resources.GetMatch "images/100.jpg" }}
-    
-                        {{ $thumb := ($hero.Fill "400x400 webp q90") }}
-                        {{ $large := ($hero.Fill "576x576 webp q90") }}
-    
-                        <img srcset="
-                            {{- with $thumb.RelPermalink -}}{{.}} 400w{{- end -}}
-                            {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}" width="100%" height="" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg" />
-                    </div>
-                    <div class="col-span-6 px-4 text-center sm:mb-6 lg:text-left lg:mb-0">
-                  
-                        <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                            Photography
-                        </h2>
-                        <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
-                           
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </a>
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
 
- <a href="/handpainting/">
-    <div class="bg-gray-200 dark:bg-gray-900">
-        <div class="max-w-screen-xl px-4 py-8 mx-auto">
-            <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
-                <div class="col-span-6 px-4 text-center sm:mb-6 lg:text-left lg:mb-0">
-              
-                    <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                        Handpainting
-                    </h2>
-                    <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
-                       
-                    </p>
-                </div>
-                <div class="col-span-6">
-                    {{ $hero := resources.GetMatch "images/100.jpg" }}
-
-                    {{ $thumb := ($hero.Fill "400x400 webp q90") }}
-                    {{ $large := ($hero.Fill "576x576 webp q90") }}
-
-                    <img srcset="
-                        {{- with $thumb.RelPermalink -}}{{.}} 400w{{- end -}}
-                        {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}" width="100%" height="" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg" />
-                </div>
-            </div>
-        </div>
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+        
+    </style>
+  <!-- Swiper -->
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img src="/images/home/1.png" alt="">
+        
+      </div>
+      <div class="swiper-slide">
+        <img src="/images/home/2.png" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="/images/home/3.png" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="/images/home/4.png" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="/images/home/5.png" alt="">
+      </div>
+   
     </div>
- </a>
 
+  </div>
 
+    <script>   
+     //     var swiper = new Swiper('.swiper-container');     
+        var mySwiper = new Swiper ('.swiper-container', {
+          direction: 'horizontal', // 垂直切换选项
+          loop: true, // 循环模式选项
+          autoplay:true,
+          
+        //   // 如果需要分页器
+        //   pagination: {
+        //     el: '.swiper-pagination',
+        //   },
+          
+          // 如果需要前进后退按钮
+          navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+          },
+          
+        //   // 如果需要滚动条
+        //   scrollbar: {
+        //     el: '.swiper-scrollbar',
+        //   },
+        })        
+        </script>
 
 
 
 </main>
 {{ end }}
+
+
