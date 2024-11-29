@@ -5,7 +5,7 @@ language: en
 description: 
 ---
 
- <audio controls src="/mp3/0.mp3" style="display:none" ></audio>
+ <audio controls src="/mp3/0.mp3" style="display:none" autoplay ></audio>
  
 ![](/images/scenicdesign/class/title.png)
 
