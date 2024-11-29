@@ -267,13 +267,38 @@ origin script
 
 ### Rendering
 
-![](/images/scenicdesign/class/Medea/Rendering/1.png)
-![](/images/scenicdesign/class/Medea/Rendering/2.png)
-![](/images/scenicdesign/class/Medea/Rendering/3.png)
-![](/images/scenicdesign/class/Medea/Rendering/4.png)
-![](/images/scenicdesign/class/Medea/Rendering/5.png)
-![](/images/scenicdesign/class/Medea/Rendering/6.png)
 
+
+<div class="flex">
+ <div class="flex-none w-24 swiper-button-next10" style="margin:auto 0;padding-right:40px"> < </div>
+ <div>
+ <div class="w-full max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
+  <div class="swiper-container-medea-render" style="">
+    <div class=" swiper-wrapper" >
+      <div class="swiper-slide">
+        <img src="/images/scenicdesign/class/Medea/Rendering/1.png" alt="" /> 
+      </div>
+      <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Medea/Rendering/2.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Medea/Rendering/3.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Medea/Rendering/4.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Medea/Rendering/5.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Rendering/6.png" alt="">
+      </div>
+    </div>
+  </div></div>
+  </div>
+ <div class="flex-none w-24 swiper-button-next10" style="margin:auto 0;padding-left:40px"> > </div>
+ 
+</div>
 
 
 
@@ -303,6 +328,13 @@ origin script
 
 
 <script>   
+  var mySwiper = new Swiper ('.swiper-container-medea-render',{
+      navigation: {
+        nextEl: '.swiper-button-next10',
+        prevEl: '.swiper-button-prev10',
+      },
+      loop: true,
+  })
      //     var swiper = new Swiper('.swiper-container');     
         var mySwiper = new Swiper ('.swiper-container-drawings', {
           direction: 'horizontal', // 垂直切换选项
@@ -310,7 +342,7 @@ origin script
           autoplay:true,
           noSwipingClass : 'scroll-wrap',
           
-        //   // 如果需要分页器
+        //   // 如果需要分页器 
         //   pagination: {
         //     el: '.swiper-pagination',
         //   },
