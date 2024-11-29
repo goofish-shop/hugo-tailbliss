@@ -7,8 +7,8 @@ description: Handpainting
 ---
 
 
-![](/static/images/Handpainting/1.jpeg)
-![](/static/images/Handpainting/2.jpeg)
-![](/static/images/Handpainting/3.jpeg)
+![](/images/Handpainting/1.jpeg)
+![](/images/Handpainting/2.jpeg)
+![](/images/Handpainting/3.jpeg)
 
 
