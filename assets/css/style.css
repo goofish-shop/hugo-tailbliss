@@ -4323,3 +4323,11 @@ EmojiSymbols;
     line-height: 1;
   }
 }
+
+
+html {
+  font-family: "Sen", serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
