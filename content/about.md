@@ -7,9 +7,9 @@ description: About Us
 ---
 
 
-Siyi SUN (Irina)
+**Siyi SUN (Irina)**
 
-Jiangning District, Nanjing City, Jiangsu Province, China 
+<p>Jiangning District, Nanjing City, Jiangsu Province, China  </p>
 
 Email: irinacc1.400000000@gmail.com 
 
@@ -17,7 +17,9 @@ Tel:+(86) 15850646179
 
 ## EDUCATION
  
-09/2021-06/2025 Hubei University of Technology | Bachelor of Fine Arts Wuhan,China 
+09/2021-06/2025 Hubei University of Technology | Bachelor of Fine Arts 
+
+Wuhan,China 
 
 * Department: School of Art & Design
 
@@ -28,23 +30,17 @@ Tel:+(86) 15850646179
 
 ## ART EXPERIENCE 
 
-11/2023-04/2024 Sino-French Urban Space Public Facilities Design Workshop Wuhan,China 
+11/2023-04/2024 Sino-French Urban Space Public Facilities Design Workshop <br />Wuhan,China <br /> Photographer/Designer 
 
-Photographer/Designer 
 
-Served as photographer using camera, tripod and stabilizer to record the workflow of the whole 
 
-workshop 
-
-Edited the videos using DaVinci Resolve in the final exhibition, producing 4 minutes and 18 
-minutes of videos respectively 
+Served as photographer using camera, tripod and stabilizer to record the workflow of the whole <br />workshop <br />Edited the videos using DaVinci Resolve in the final exhibition, producing 4 minutes and 18 <br />
+minutes of videos respectively <br />
 Designed and produced solid models using bamboo and dupont paper 
-
-https://www.youtube.com/@IrinaCC106/2023-07/2023 Study of Typerface, HBUT Wuhan, China 
-Designer/Researcher 
-Independently collected the design introduction and excellent cases related to brand, poster and 
-book text design by browsing the China International Poster Biennale, “The Most Beautiful 
-Book”, Pentagon Design and other influential competitions 
+https://www.youtube.com/@IrinaCC106/2023-07/2023 Study of Typerface, HBUT Wuhan, China <br />
+Designer/Researcher <br />
+Independently collected the design introduction and excellent cases related to brand, poster and  book text design by browsing the China International Poster Biennale, “The Most Beautiful <br />
+Book”, Pentagon Design and other influential competitions <br />
 Designed creative fonts and wrote the whole steps by Photoshop and Illustrator 
 
 ## HONORS/AWARDS 
@@ -70,9 +66,8 @@ Designed creative fonts and wrote the whole steps by Photoshop and Illustrator
 
 10/2023 Third-class Scholarship of Hubei University of Technology 
 
-05/2023 Milan Design Week China Collegiate Design Competition &Exhibition 
+05/2023 Milan Design Week China Collegiate Design Competition &Exhibition Third prize in provincial competition 
 
-Third prize in provincial competition 
 10/2022 Outstanding model for college students (university-level first-class scholarship) 
 
 ## SKILLS/INTERESTS 

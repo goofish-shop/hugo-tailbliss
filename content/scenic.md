@@ -9,6 +9,12 @@ description:
 
 ## Welcome To The Class
 
+Project Statement
+Time: JULY 2023--SEPTEMBER 2023
+Keywords: Music	& Drama
+Modern society has created great material wealth for human beings, and then the human spiritual world has been devastated. In the face of ghosts and temptations, will people choose to stick to themselves or bow down at the feet of the powerful?
+Illusory, gaze, ritual, judge, is the first feeling that this music gives me. I was fascinated by the very mysterious atmosphere, the very rhythmic drum beat, the eerie melody and the rising hazy background sound directly reminded me of one of my favorite director Kubrick's films, Eyes Wide Shut, in which the hero enters the ball wearing a mask. People chase money and fame and yearn for the mystery, cruelty and seductive light of upper class society. And is the seemingly supreme and inviolable religious belief also a FIG leaf for the upper class to rule society?
+
 ![](/images/scenicdesign/class/title.jpg)
 
 ![](/images/scenicdesign/class/100.jpg)
@@ -26,6 +32,8 @@ description:
 
 ### Custome Design to Ben
 
+Real-life work attire
+
 ![](/images/scenicdesign/class/ben/1.jpg)
 ![](/images/scenicdesign/class/ben/2.jpg)
 ![](/images/scenicdesign/class/ben/3.jpg)
@@ -42,12 +50,18 @@ description:
 
 ### Drawings
 
+reality : church
+
 ![](/images/scenicdesign/class/Drawings/1.png)
 ![](/images/scenicdesign/class/Drawings/2.png)
 ![](/images/scenicdesign/class/Drawings/3.png)
 
 
 ### Rendering
+
+Formal dress
+ball
+Semi-transparent suit: the body can be vaguely seen, and the garment will sway slightly up and down as you walk.
 
 ![](/images/scenicdesign/class/Rendering/1.png)
 ![](/images/scenicdesign/class/Rendering/2.png)
@@ -58,6 +72,12 @@ description:
 
 
 ## Echo
+
+Project Statement
+Individual Academic Work-Renovation of old buildings
+Location: Dongbei, China
+Type: Suspense immersive play
+Time: January 2024- February 2024
 
 ![](/images/scenicdesign/class/Echo/1.png)
 ![](/images/scenicdesign/class/Echo/2.png)
@@ -95,7 +115,15 @@ description:
 
 ## Medea
 
+origin script
 
+1. Consolation
+2. The desire for vengeance rises
+3. Singing about the hypocrisy of love
+4. Exhorting Medea not to be blinded by hatred
+5. Lamenting the life of a child and the death of a princess
+6. Both of Medea's sons ended up dying by their mother's sword
+7. Medea's vengeance has been served, but she's long since been torn apart.
 
 
 ## The Crying Camel
