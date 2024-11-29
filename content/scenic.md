@@ -5,7 +5,7 @@ language: en
 description: 
 ---
 
-
+ <audio controls src="/mp3/0.mp3" style="display:none" ></audio>
 
 ## Welcome To The Class
 
@@ -124,6 +124,80 @@ origin script
 5. Lamenting the life of a child and the death of a princess
 6. Both of Medea's sons ended up dying by their mother's sword
 7. Medea's vengeance has been served, but she's long since been torn apart.
+ 
+![](/images/scenicdesign/class/Medea/1.png)
+![](/images/scenicdesign/class/Medea/2.png)
+![](/images/scenicdesign/class/Medea/3.png)
+![](/images/scenicdesign/class/Medea/4.png)
+
+### 古希腊地位
+
+![](/images/scenicdesign/class/Medea/xl/1.png)
+![](/images/scenicdesign/class/Medea/xl/2.png)
+![](/images/scenicdesign/class/Medea/xl/3.png)
+![](/images/scenicdesign/class/Medea/xl/4.png)
+
+
+### Drawing
+
+![](/images/scenicdesign/class/Medea/Drawing/1.png)
+![](/images/scenicdesign/class/Medea/Drawing/2.png)
+
+
+### origin script
+
+![](/images/scenicdesign/class/Medea/script/1.png)
+![](/images/scenicdesign/class/Medea/script/2.png)
+![](/images/scenicdesign/class/Medea/script/3.png)
+![](/images/scenicdesign/class/Medea/script/4.png)
+![](/images/scenicdesign/class/Medea/script/5.png)
+![](/images/scenicdesign/class/Medea/script/6.png)
+![](/images/scenicdesign/class/Medea/script/7.png)
+
+
+### SKETCH
+
+![](/images/scenicdesign/class/Medea/SKETCH/1.png)
+![](/images/scenicdesign/class/Medea/SKETCH/2.png)
+![](/images/scenicdesign/class/Medea/SKETCH/3.png)
+![](/images/scenicdesign/class/Medea/SKETCH/4.png)
+![](/images/scenicdesign/class/Medea/SKETCH/5.png)
+![](/images/scenicdesign/class/Medea/SKETCH/6.png)
+![](/images/scenicdesign/class/Medea/SKETCH/7.png)
+
+
+
+### Rendering
+
+![](/images/scenicdesign/class/Medea/Rendering/1.png)
+![](/images/scenicdesign/class/Medea/Rendering/2.png)
+![](/images/scenicdesign/class/Medea/Rendering/3.png)
+![](/images/scenicdesign/class/Medea/Rendering/4.png)
+![](/images/scenicdesign/class/Medea/Rendering/5.png)
+![](/images/scenicdesign/class/Medea/Rendering/6.png)
+
+
 
 
 ## The Crying Camel
+
+![](/images/scenicdesign/class/Camel/1.png)
+![](/images/scenicdesign/class/Camel/2.png)
+![](/images/scenicdesign/class/Camel/3.png)
+![](/images/scenicdesign/class/Camel/4.png)
+
+
+### Rendering
+
+![](/images/scenicdesign/class/Camel/Rendering/1.png)
+![](/images/scenicdesign/class/Camel/Rendering/2.png)
+![](/images/scenicdesign/class/Camel/Rendering/3.png)
+![](/images/scenicdesign/class/Camel/Rendering/4.png)
+![](/images/scenicdesign/class/Camel/Rendering/5.png)
+![](/images/scenicdesign/class/Camel/Rendering/6.png)
+![](/images/scenicdesign/class/Camel/Rendering/7.png)
+![](/images/scenicdesign/class/Camel/Rendering/8.png)
+![](/images/scenicdesign/class/Camel/Rendering/9.png)
+![](/images/scenicdesign/class/Camel/Rendering/10.png)
+![](/images/scenicdesign/class/Camel/Rendering/11.png)
+![](/images/scenicdesign/class/Camel/Rendering/12.png)
