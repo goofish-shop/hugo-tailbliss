@@ -5,7 +5,7 @@ language: en
 description: 
 ---
 
- <audio controls src="/mp3/0.mp3"  ></audio>
+ <audio controls src="/mp3/0.mp3"   style="display:none" ></audio>
  
 ![](/images/scenicdesign/class/title.png)
 
@@ -29,7 +29,23 @@ Illusory, gaze, ritual, judge, is the first feeling that this music gives me. I 
 
 ![](/images/scenicdesign/class/Mood/2.png)
 
-![](/images/scenicdesign/class/6.png)
+<div class="flex flex-row ">
+  <div>
+   <div>  <img src="/images/scenicdesign/class/music/1.jpg"> </div>
+    <div   > <audio style="height:20px;width:100px;display: inline-block"  controls src="/mp3/1.mp3"    ></audio> <img  src="/images/scenicdesign/class/music/2.jpg"> </div>
+    <div>  <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/2.mp3"    ></audio><img src="/images/scenicdesign/class/music/3.jpg"> </div>
+    <div> <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/3.mp3"    ></audio> <img src="/images/scenicdesign/class/music/4.jpg"> </div>
+    <div> <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/4.mp3"    ></audio> <img src="/images/scenicdesign/class/music/5.jpg"> </div>
+    <div>  <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/5.mp3"    ></audio> <img src="/images/scenicdesign/class/music/6.jpg"> </div>
+    <div> <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/6.mp3"    ></audio> <img src="/images/scenicdesign/class/music/7.jpg"> </div>
+  </div>
+
+  <div>
+      <img src="/images/scenicdesign/class/music/0.jpg">
+  </div>
+</div>
+
+
 
 
 ### Custome Design to Ben
@@ -107,7 +123,7 @@ Formal dress
 ball
 Semi-transparent suit: the body can be vaguely seen, and the garment will sway slightly up and down as you walk.
 
-<div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
+<!-- <div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
   <div class="swiper-container-drawings" style="">
     <div class=" swiper-wrapper" >
       <div class="swiper-slide">
@@ -126,6 +142,31 @@ Semi-transparent suit: the body can be vaguely seen, and the garment will sway s
             <img src="/images/scenicdesign/class/Rendering/5.png" alt="">
       </div>
        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/6.png" alt="">
+      </div>
+    </div>
+  </div></div> -->
+
+
+  <div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
+  <div class="swiper-container-drawings" style="">
+    <div class=" swiper-wrapper" >
+      <div class="swiper-slide">
+        <img src="/images/scenicdesign/class/Rendering/1.png" alt="" /> 
+      </div>
+      <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/2.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/3.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/4.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Rendering/5.png" alt="">
+      </div>
+        <div class=" swiper-slide">
             <img src="/images/scenicdesign/class/Rendering/6.png" alt="">
       </div>
     </div>
@@ -149,68 +190,79 @@ Time: January 2024- February 2024
 
 ### Rendering
 
-
+<!-- 
 <div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
   <div class="swiper-container-drawings" style="">
     <div class=" swiper-wrapper" >
       <div class="swiper-slide">
-        <img src="/images/scenicdesign/class/Echo/Rendering/1.png" alt="" /> 
+        <img src="/images/scenicdesign/class/Echo/Renderings/1.png" alt="" /> 
       </div>
       <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/2.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/2.png" alt="">
       </div>
        <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/3.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/3.png" alt="">
       </div>
        <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/4.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/4.png" alt="">
       </div>
        <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/5.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/5.png" alt="">
       </div>
        <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/6.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/6.png" alt="">
       </div>
        <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/7.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/7.png" alt="">
       </div>
        <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/8.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/8.png" alt="">
       </div>
        <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/9.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/9.png" alt="">
       </div>
        <div class=" swiper-slide">
-            <img src="/images/scenicdesign/class/Echo/Rendering/10.png" alt="">
+            <img src="/images/scenicdesign/class/Echo/Renderings/10.png" alt="">
+      </div>
+    </div>
+  </div></div> -->
+
+
+  <div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
+  <div class="swiper-container-drawings" style="">
+    <div class=" swiper-wrapper" >
+      <div class="swiper-slide">
+        <img src="/images/scenicdesign/class/Echo/Renderings/1.png" alt="" /> 
+      </div>
+      <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/2.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/3.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/4.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/5.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/6.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/7.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/8.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/9.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Echo/Renderings/10.png" alt="">
       </div>
     </div>
   </div></div>
-
-![](/images/scenicdesign/class/Echo/Rendering/1.png)
-![](/images/scenicdesign/class/Echo/Rendering/2.png)
-![](/images/scenicdesign/class/Echo/Rendering/3.png)
-![](/images/scenicdesign/class/Echo/Rendering/4.png)
-![](/images/scenicdesign/class/Echo/Rendering/5.png)
-![](/images/scenicdesign/class/Echo/Rendering/6.png)
-![](/images/scenicdesign/class/Echo/Rendering/7.png)
-![](/images/scenicdesign/class/Echo/Rendering/8.png)
-![](/images/scenicdesign/class/Echo/Rendering/9.png)
-![](/images/scenicdesign/class/Echo/Rendering/10.png)
-![](/images/scenicdesign/class/Echo/Rendering/11.png)
-![](/images/scenicdesign/class/Echo/Rendering/12.png)
-![](/images/scenicdesign/class/Echo/Rendering/13.png)
-![](/images/scenicdesign/class/Echo/Rendering/14.png)
-![](/images/scenicdesign/class/Echo/Rendering/15.png)
-![](/images/scenicdesign/class/Echo/Rendering/16.png)
-![](/images/scenicdesign/class/Echo/Rendering/17.png)
-![](/images/scenicdesign/class/Echo/Rendering/18.png)
-![](/images/scenicdesign/class/Echo/Rendering/19.png)
-![](/images/scenicdesign/class/Echo/Rendering/20.png)
-![](/images/scenicdesign/class/Echo/Rendering/21.png)
-![](/images/scenicdesign/class/Echo/Rendering/22.png)
-![](/images/scenicdesign/class/Echo/Rendering/23.png)
-![](/images/scenicdesign/class/Echo/Rendering/24.png)
-
 ## Medea
 
 origin script
@@ -223,18 +275,20 @@ origin script
 6. Both of Medea's sons ended up dying by their mother's sword
 7. Medea's vengeance has been served, but she's long since been torn apart.
  
-![](/images/scenicdesign/class/Medea/1.png)
-![](/images/scenicdesign/class/Medea/2.png)
-![](/images/scenicdesign/class/Medea/3.png)
-![](/images/scenicdesign/class/Medea/4.png)
+![](/images/scenicdesign/class/Medea/0.jpg)
+
 
 ### 古希腊地位
 
-![](/images/scenicdesign/class/Medea/xl/1.png)
-![](/images/scenicdesign/class/Medea/xl/2.png)
-![](/images/scenicdesign/class/Medea/xl/3.png)
-![](/images/scenicdesign/class/Medea/xl/4.png)
 
+
+<div class="flex flex-row">
+<img style="width:25%;height:auto" src="/images/scenicdesign/class/Medea/xl/1.png">
+<img style="width:25%;height:auto" src="/images/scenicdesign/class/Medea/xl/2.png">
+<img style="width:25%;height:auto" src="/images/scenicdesign/class/Medea/xl/3.png">
+
+</div>
+<img  src="/images/scenicdesign/class/Medea/xl/4.png">
 
 ### Drawing
 
@@ -244,13 +298,8 @@ origin script
 
 ### origin script
 
-![](/images/scenicdesign/class/Medea/script/1.png)
-![](/images/scenicdesign/class/Medea/script/2.png)
-![](/images/scenicdesign/class/Medea/script/3.png)
-![](/images/scenicdesign/class/Medea/script/4.png)
-![](/images/scenicdesign/class/Medea/script/5.png)
-![](/images/scenicdesign/class/Medea/script/6.png)
-![](/images/scenicdesign/class/Medea/script/7.png)
+![](/images/scenicdesign/class/Medea/2.jpg)
+
 
 
 ### SKETCH
@@ -269,7 +318,7 @@ origin script
 
 
 
-<div class="flex">
+<!-- <div class="flex">
  <div class="flex-none w-24 swiper-button-next10" style="margin:auto 0;padding-right:40px"> < </div>
  <div>
  <div class="w-full max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
@@ -297,8 +346,7 @@ origin script
   </div></div>
   </div>
  <div class="flex-none w-24 swiper-button-next10" style="margin:auto 0;padding-left:40px"> > </div>
- 
-</div>
+</div> -->
 
 
 
@@ -325,10 +373,63 @@ origin script
 ![](/images/scenicdesign/class/Camel/Rendering/11.png)
 ![](/images/scenicdesign/class/Camel/Rendering/12.png)
 
-
+<!-- <div class="flex ">
+ <div class="flex-none w-24 swiper-button-next11" style="margin:auto 0;padding-right:40px"> < </div>
+ <div>
+ <div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
+  <div class="swiper-container-medea-render2" style="">
+    <div class=" swiper-wrapper" >
+      <div class="swiper-slide">
+        <img src="/images/scenicdesign/class/Camel/Rendering/1.png" alt="" /> 
+      </div>
+      <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/2.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/3.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/4.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/5.png" alt="">
+      </div>
+       <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/6.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/7.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/8.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/9.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/10.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/11.png" alt="">
+      </div>
+        <div class=" swiper-slide">
+            <img src="/images/scenicdesign/class/Camel/Rendering/12.png" alt="">
+      </div>
+    </div>
+  </div></div>
+  </div>
+ <div class="flex-none w-24 swiper-button-next10" style="margin:auto 0;padding-left:40px"> > </div>
+</div> -->
 
 <script>   
-  var mySwiper = new Swiper ('.swiper-container-medea-render',{
+  var mySwiper1 = new Swiper ('.swiper-container-medea-render',{
+      navigation: {
+        nextEl: '.swiper-button-next10',
+        prevEl: '.swiper-button-prev10',
+      },
+      loop: true,
+  })
+  var mySwiper2 = new Swiper(".swiper-container-medea-render2",{
       navigation: {
         nextEl: '.swiper-button-next10',
         prevEl: '.swiper-button-prev10',
@@ -336,7 +437,7 @@ origin script
       loop: true,
   })
      //     var swiper = new Swiper('.swiper-container');     
-        var mySwiper = new Swiper ('.swiper-container-drawings', {
+        var mySwiper3 = new Swiper ('.swiper-container-drawings', {
           direction: 'horizontal', // 垂直切换选项
           loop: true, // 循环模式选项
           autoplay:true,

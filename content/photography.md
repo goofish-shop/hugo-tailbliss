@@ -20,18 +20,8 @@ Model: XIN huang, xuan hu
 Assistant: ZIMENG tian
 
 
-![](/images/Photography/Herself/v1/1.png)
-![](/images/Photography/Herself/v1/2.png)
-![](/images/Photography/Herself/v1/3.png)
-![](/images/Photography/Herself/v1/4.png)
-![](/images/Photography/Herself/v1/5.png)
+![](/images/Photography/1.jpg)
 
-
-![](/images/Photography/Herself/v2/1.png)
-![](/images/Photography/Herself/v2/2.png)
-![](/images/Photography/Herself/v2/3.png)
-![](/images/Photography/Herself/v2/4.png)
-![](/images/Photography/Herself/v2/5.png)
 
 
 ## Prison
@@ -39,15 +29,8 @@ Assistant: ZIMENG tian
 The development of industry has brought about concrete and steel as the main materials for construction. However, the lifeless industrial buildings bring only dullness and suffocate people.
 In the iron bars, barbed wire fences under the addition of more embodied confinement, tough, cold prison life, is no freedom, no hope, as a puppet, then, human beings try their best to explore the progress of society and for what?
 
-![](/images/Photography/Prison/1.JPG)
-![](/images/Photography/Prison/2.JPG)
-![](/images/Photography/Prison/3.JPG)
-![](/images/Photography/Prison/4.JPG)
-![](/images/Photography/Prison/5.JPG)
-![](/images/Photography/Prison/6.JPG)
-![](/images/Photography/Prison/7.JPG)
-![](/images/Photography/Prison/8.JPG)
-![](/images/Photography/Prison/9.JPG)
+![](/images/Photography/2.jpg)
+
 
 
 ## Snapshot
