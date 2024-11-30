@@ -272,8 +272,7 @@ origin script
 6. Both of Medea's sons ended up dying by their mother's sword
 7. Medea's vengeance has been served, but she's long since been torn apart.
  
-![](/images/scenicdesign/class/Medea/01.jpg)
-
+![](/images/scenicdesign/class/Medea/09.jpg)
 
 ### 古希腊地位
 
@@ -281,12 +280,20 @@ origin script
 Matriarchal Society：
 Women were respected.
 
-<div class="flex flex-row">
+<!-- <div class="flex flex-wrap ">
 <img style="width:25%;height:auto" src="/images/scenicdesign/class/Medea/xl/1.png">
 <img style="width:25%;height:auto" src="/images/scenicdesign/class/Medea/xl/2.png">
 <img style="width:25%;height:auto" src="/images/scenicdesign/class/Medea/xl/3.png">
 
+</div> -->
+
+
+ <div class="flex flex-wrap ">
+ <img  style="width:50%" src="/images/scenicdesign/class/Medea/09.jpg">
+ <img style="width:50%"  src="/images/scenicdesign/class/Medea/08.jpg">
+
 </div>
+
 
 2. CLASSICAL ERA
 -Women's Rights:They have no right to speak in politics.
