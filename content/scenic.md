@@ -30,14 +30,23 @@ Illusory, gaze, ritual, judge, is the first feeling that this music gives me. I 
 ![](/images/scenicdesign/class/mood/2.png)
 
 <div class="flex flex-row ">
-  <div>
+    <!-- <div>
+       <p style=" opacity: 0;">  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/0.mp3"    ></audio></p>  
+   <p> <audio style="width:100px;height:20px;display: inline-block;margin-bottom:20px"  controls src="/mp3/1.mp3"    ></audio> </p>
+   <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/2.mp3"    ></audio></p>
+ <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/3.mp3"    ></audio></p>
+ <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/4.mp3"    ></audio></p>
+ <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/5.mp3"    ></audio></p>
+ <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/6.mp3"    ></audio></p>
+    </div> -->
+  <div >
    <div>  <img src="/images/scenicdesign/class/music/1.jpg"> </div>
-    <div   > <audio style="height:20px;width:100px;display: inline-block"  controls src="/mp3/1.mp3"    ></audio> <img  src="/images/scenicdesign/class/music/2.jpg"> </div>
-    <div>  <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/2.mp3"    ></audio><img src="/images/scenicdesign/class/music/3.jpg"> </div>
-    <div> <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/3.mp3"    ></audio> <img src="/images/scenicdesign/class/music/4.jpg"> </div>
-    <div> <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/4.mp3"    ></audio> <img src="/images/scenicdesign/class/music/5.jpg"> </div>
-    <div>  <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/5.mp3"    ></audio> <img src="/images/scenicdesign/class/music/6.jpg"> </div>
-    <div> <audio style="width:100px;height:20px;display: inline-block"  controls src="/mp3/6.mp3"    ></audio> <img src="/images/scenicdesign/class/music/7.jpg"> </div>
+    <div   > <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/1.mp3"    ></audio> <img style="display: inline-block;width:80%;"  src="/images/scenicdesign/class/music/2.jpg"> </div>
+    <div>  <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/2.mp3"    ></audio><img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/3.jpg"> </div>
+    <div> <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/3.mp3"    ></audio> <img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/4.jpg"> </div>
+    <div>  <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/4.mp3"    ></audio> <img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/5.jpg"> </div>
+    <div>  <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/5.mp3"    ></audio> <img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/6.jpg"> </div>
+    <div>  <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/6.mp3"    ></audio> <img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/7.jpg"> </div>
   </div>
 
   <div>
@@ -308,8 +317,8 @@ An overdeveloped commodity economy that makes women subordinate to men.
 
 ### Drawing
 
-![](/images/scenicdesign/class/Medea/Drawing/1.png)
-![](/images/scenicdesign/class/Medea/Drawing/2.png)
+![](/images/scenicdesign/class/Medea/Drawing/1.jpg)
+
 
 
 ### origin script
