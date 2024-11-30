@@ -25,9 +25,9 @@ Illusory, gaze, ritual, judge, is the first feeling that this music gives me. I 
 ### Mood Board
 
 
-![](/images/scenicdesign/class/Mood/1.png)
+![](/images/scenicdesign/class/mood/1.png)
 
-![](/images/scenicdesign/class/Mood/2.png)
+![](/images/scenicdesign/class/mood/2.png)
 
 <div class="flex flex-row ">
   <div>
