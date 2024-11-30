@@ -66,6 +66,7 @@ Real-life work attire
 </div>
 
 
+Casual Wear
 
 <div class=" columns-2">
   <div > <img class="w-full " src="/images/scenicdesign/class/ben/8.jpg" /> </div>
@@ -78,7 +79,11 @@ Real-life work attire
   </div>
 </div>
 
+Formal dress
 
+ball
+
+Semi-transparent suit: the body can be vaguely seen, and the garment will sway slightly up and down as you walk.
 
 <div class=" columns-2">
   <div > <img class="w-full " src="/images/scenicdesign/class/ben/12.jpg" /> </div>
@@ -263,6 +268,7 @@ Time: January 2024- February 2024
       </div>
     </div>
   </div></div>
+  
 ## Medea
 
 origin script
@@ -280,7 +286,9 @@ origin script
 
 ### 古希腊地位
 
-
+1. HOMER ERA
+Matriarchal Society：
+Women were respected.
 
 <div class="flex flex-row">
 <img style="width:25%;height:auto" src="/images/scenicdesign/class/Medea/xl/1.png">
@@ -288,6 +296,14 @@ origin script
 <img style="width:25%;height:auto" src="/images/scenicdesign/class/Medea/xl/3.png">
 
 </div>
+
+2. CLASSICAL ERA
+-Women's Rights:They have no right to speak in politics.
+-Fertility: Aristotle—males are superior to females, souls come from men, bodies come from women, men dominate, women are subordinate, men give form, women provide materials, men are normal norms, and women are deformed.
+-Marriage: Women do not have the freedom to choose a husband.
+Highly unequal relations between men and women
+An overdeveloped commodity economy that makes women subordinate to men.
+
 <img  src="/images/scenicdesign/class/Medea/xl/4.png">
 
 ### Drawing
@@ -303,6 +319,14 @@ origin script
 
 
 ### SKETCH
+
+1. Entrance Song		Fall in love
+2. Act I			Pre-pregnancy
+3. Act II		Mid-pregnancy
+4. Act III		Late pregnancy
+5. Act IV		Birth
+6. Act V		Betrayal
+7. Act VI		Punishment
 
 ![](/images/scenicdesign/class/Medea/SKETCH/1.png)
 ![](/images/scenicdesign/class/Medea/SKETCH/2.png)
@@ -352,6 +376,19 @@ origin script
 
 ## The Crying Camel
 
+Type: Individual Academic Work-Revolving Stage
+
+Time:January 2023- March 2023
+
+Excerpt from：Stories of the Sahara
+
+Author : Echo Chan
+
+Set against the backdrop of the War of Self-Determination of the Western Saharan peoples, this story tells the tragic love story of Basiri, the leader of the Shaharawi guerrillas, and his wife, Shaida. It celebrates the poignant song of love and destiny in the desert.
+
+The whole novel is written in a heavy and sad tone, breaking the usual bright and easy language style of Echo Chan’s mid-career ‘desert literature’. Through this work, Chan strongly condemns the merciless destruction of people's lives by war, and shows the helplessness and struggles of individuals under the war environment. At the same time, the novel also expresses the praise for sincere emotions and the beauty of human nature through the love story of Bassiri and Shaida.
+The book depicts the dynamics of ordinary people under tense situations, where peace is precious, and I want to convey the audience's thoughts on war and peace through this play.
+
 ![](/images/scenicdesign/class/Camel/1.png)
 ![](/images/scenicdesign/class/Camel/2.png)
 ![](/images/scenicdesign/class/Camel/3.png)
@@ -360,17 +397,29 @@ origin script
 
 ### Rendering
 
+1. Beginning		Nightmare
 ![](/images/scenicdesign/class/Camel/Rendering/1.png)
+2. Act1 Scene1-1	Initial Acquaintance
 ![](/images/scenicdesign/class/Camel/Rendering/2.png)
+3. Act1 Scene1-2
 ![](/images/scenicdesign/class/Camel/Rendering/3.png)
+4. Act1 Scene1-3
 ![](/images/scenicdesign/class/Camel/Rendering/4.png)
+5. Act1 Scene2-1	Unfairness
 ![](/images/scenicdesign/class/Camel/Rendering/5.png)
+6. Act1 Scene2-2
 ![](/images/scenicdesign/class/Camel/Rendering/6.png)
+7. Act2 Scene1		Family
 ![](/images/scenicdesign/class/Camel/Rendering/7.png)
+8. Act2 Scene1-2
 ![](/images/scenicdesign/class/Camel/Rendering/8.png)
+9. Act2 Scene1-3
 ![](/images/scenicdesign/class/Camel/Rendering/9.png)
+10. Act2 Scene2-1	Grief
 ![](/images/scenicdesign/class/Camel/Rendering/10.png)
+11. Act2 Scene2-2
 ![](/images/scenicdesign/class/Camel/Rendering/11.png)
+12. Act2 Scene2-3
 ![](/images/scenicdesign/class/Camel/Rendering/12.png)
 
 <!-- <div class="flex ">
