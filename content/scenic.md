@@ -29,33 +29,12 @@ Illusory, gaze, ritual, judge, is the first feeling that this music gives me. I 
 
 ![](/images/scenicdesign/class/mood/2.png)
 
-<div class="flex flex-row ">
-    <!-- <div>
-       <p style=" opacity: 0;">  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/0.mp3"    ></audio></p>  
-   <p> <audio style="width:100px;height:20px;display: inline-block;margin-bottom:20px"  controls src="/mp3/1.mp3"    ></audio> </p>
-   <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/2.mp3"    ></audio></p>
- <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/3.mp3"    ></audio></p>
- <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/4.mp3"    ></audio></p>
- <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/5.mp3"    ></audio></p>
- <p>  <audio style="width:100px;height:20px;display: inline-block;line-height:64px"  controls src="/mp3/6.mp3"    ></audio></p>
-    </div> -->
-  <div >
-   <div>  <img src="/images/scenicdesign/class/music/1.jpg"> </div>
-    <div   > <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/1.mp3"    ></audio> <img style="display: inline-block;width:80%;"  src="/images/scenicdesign/class/music/2.jpg"> </div>
-    <div>  <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/2.mp3"    ></audio><img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/3.jpg"> </div>
-    <div> <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/3.mp3"    ></audio> <img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/4.jpg"> </div>
-    <div>  <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/4.mp3"    ></audio> <img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/5.jpg"> </div>
-    <div>  <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/5.mp3"    ></audio> <img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/6.jpg"> </div>
-    <div>  <audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/6.mp3"    ></audio> <img style="display: inline-block;width:80%;" src="/images/scenicdesign/class/music/7.jpg"> </div>
-  </div>
-
-  <div>
-      <img src="/images/scenicdesign/class/music/0.jpg">
-  </div>
-</div>
 
 
+<audio style="width:100px;height:20px;display: inline-block;"  controls src="/mp3/1.mp3"    ></audio>
 
+
+![](/images/scenicdesign/class/6.png)
 
 ### Custome Design to Ben
 
@@ -293,7 +272,7 @@ origin script
 6. Both of Medea's sons ended up dying by their mother's sword
 7. Medea's vengeance has been served, but she's long since been torn apart.
  
-![](/images/scenicdesign/class/Medea/0.jpg)
+![](/images/scenicdesign/class/Medea/01.jpg)
 
 
 ### 古希腊地位
