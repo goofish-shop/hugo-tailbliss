@@ -63,7 +63,7 @@ Real-life work attire
 
 
 
-<div class=" columns-2">
+<!-- <div class=" columns-2">
   <div > <img class="w-full " src="/images/scenicdesign/class/ben/4.jpg" /> </div>
   <div >
        <div class="columns-2">
@@ -72,12 +72,13 @@ Real-life work attire
         </div>
         <img  src="/images/scenicdesign/class/ben/3.jpg" />
   </div>
-</div>
-
+</div> -->
+ <img class="w-full " src="/images/scenicdesign/class/ben/01.jpg" />
 
 Casual Wear
+ <img class="w-full " src="/images/scenicdesign/class/ben/03.jpg" />
 
-<div class=" columns-2">
+<!-- <div class=" columns-2">
   <div > <img class="w-full " src="/images/scenicdesign/class/ben/8.jpg" /> </div>
   <div >
        <div class="columns-2">
@@ -86,7 +87,7 @@ Casual Wear
         </div>
         <img  src="/images/scenicdesign/class/ben/7.jpg" />
   </div>
-</div>
+</div> -->
 
 Formal dress
 
@@ -94,7 +95,9 @@ ball
 
 Semi-transparent suit: the body can be vaguely seen, and the garment will sway slightly up and down as you walk.
 
-<div class=" columns-2">
+ <img class="w-full " src="/images/scenicdesign/class/ben/02.jpg" />
+
+<!-- <div class=" columns-2">
   <div > <img class="w-full " src="/images/scenicdesign/class/ben/12.jpg" /> </div>
   <div >
        <div class="columns-2">
@@ -104,7 +107,7 @@ Semi-transparent suit: the body can be vaguely seen, and the garment will sway s
         <img  src="/images/scenicdesign/class/ben/11.jpg" />
   </div>
 </div>
-
+ -->
 
 
 
