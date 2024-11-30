@@ -55,7 +55,7 @@ Real-life work attire
  <img class="w-full " src="/images/scenicdesign/class/ben/01.jpg" />
 
 Casual Wear
- <img class="w-full " src="/images/scenicdesign/class/ben/03.jpg" />
+ <img class="w-full " src="/images/scenicdesign/class/ben/003.jpg" />
 
 <!-- <div class=" columns-2">
   <div > <img class="w-full " src="/images/scenicdesign/class/ben/8.jpg" /> </div>
@@ -74,7 +74,7 @@ ball
 
 Semi-transparent suit: the body can be vaguely seen, and the garment will sway slightly up and down as you walk.
 
- <img class="w-full " src="/images/scenicdesign/class/ben/02.jpg" />
+ <img class="w-full " src="/images/scenicdesign/class/ben/002.jpg" />
 
 <!-- <div class=" columns-2">
   <div > <img class="w-full " src="/images/scenicdesign/class/ben/12.jpg" /> </div>
@@ -271,8 +271,10 @@ origin script
 5. Lamenting the life of a child and the death of a princess
 6. Both of Medea's sons ended up dying by their mother's sword
 7. Medea's vengeance has been served, but she's long since been torn apart.
+
  
 ![](/images/scenicdesign/class/Medea/09.jpg)
+
 
 ### 古希腊地位
 
@@ -288,11 +290,6 @@ Women were respected.
 </div> -->
 
 
- <div class="flex flex-wrap ">
- <img  style="width:50%" src="/images/scenicdesign/class/Medea/09.jpg">
- <img style="width:50%"  src="/images/scenicdesign/class/Medea/08.jpg">
-
-</div>
 
 
 2. CLASSICAL ERA
@@ -302,17 +299,23 @@ Women were respected.
 Highly unequal relations between men and women
 An overdeveloped commodity economy that makes women subordinate to men.
 
-<img  src="/images/scenicdesign/class/Medea/xl/4.png">
-
-### Drawing
-
-![](/images/scenicdesign/class/Medea/Drawing/1.jpg)
+<!-- <img  src="/images/scenicdesign/class/Medea/xl/4.png"> -->
 
 
+ <div class="flex flex-wrap ">
+ <img  style="width:50%" src="/images/scenicdesign/class/Medea/09.jpg">
+ <img style="width:50%"  src="/images/scenicdesign/class/Medea/08.jpg">
 
-### origin script
+</div>
 
-![](/images/scenicdesign/class/Medea/2.jpg)
+
+
+
+ <img  src="/images/scenicdesign/class/Medea/2.png">
+
+ <img  src="/images/scenicdesign/class/Medea/3.png">
+  <img  src="/images/scenicdesign/class/Medea/4.png">
+
 
 
 
@@ -335,6 +338,9 @@ An overdeveloped commodity economy that makes women subordinate to men.
 ![](/images/scenicdesign/class/Medea/SKETCH/7.png)
 
 
+### Drawing
+
+![](/images/scenicdesign/class/Medea/Drawing/1.jpg)
 
 ### Rendering
 
