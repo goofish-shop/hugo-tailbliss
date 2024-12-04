@@ -177,7 +177,7 @@ Location: Dongbei, China
 Type: Suspense immersive play
 Time: January 2024- February 2024
 
-![](/images/scenicdesign/class/Echo/1.png)
+
 ![](/images/scenicdesign/class/Echo/2.png)
 ![](/images/scenicdesign/class/Echo/3.png)
 ![](/images/scenicdesign/class/Echo/4.png)
@@ -223,7 +223,7 @@ Time: January 2024- February 2024
     </div>
   </div></div> -->
 
-
+![](/images/scenicdesign/class/Echo/1.png)
   <div class="max-w-4xl mx-auto mt-8 mb-2" style="overflow:hidden">
   <div class="swiper-container-drawings" style="">
     <div class=" swiper-wrapper" >
@@ -262,15 +262,7 @@ Time: January 2024- February 2024
   
 ## Medea
 
-origin script
 
-1. Consolation
-2. The desire for vengeance rises
-3. Singing about the hypocrisy of love
-4. Exhorting Medea not to be blinded by hatred
-5. Lamenting the life of a child and the death of a princess
-6. Both of Medea's sons ended up dying by their mother's sword
-7. Medea's vengeance has been served, but she's long since been torn apart.
 
  
 ![](/images/scenicdesign/class/Medea/09.jpg)
@@ -311,9 +303,9 @@ An overdeveloped commodity economy that makes women subordinate to men.
 
 
 
- <img  src="/images/scenicdesign/class/Medea/2.png">
+ <img  src="/images/scenicdesign/class/Medea/222.jpg">
 
- <img  src="/images/scenicdesign/class/Medea/3.png">
+ <img  src="/images/scenicdesign/class/Medea/333.jpg">
   <img  src="/images/scenicdesign/class/Medea/4.png">
 
 
@@ -400,6 +392,7 @@ The book depicts the dynamics of ordinary people under tense situations, where p
 
 
 ### Rendering
+
 
 1. Beginning		Nightmare
 ![](/images/scenicdesign/class/Camel/Rendering/1.png)
